@@ -1,0 +1,7 @@
+*.mmpz
+*.bak
+/__pycache__
+*.log
+password.txt
+test.py
+scenenum.txt
